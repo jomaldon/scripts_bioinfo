@@ -44,4 +44,4 @@ for file_name in sys.argv[1:]: # this cycle is to obtain "counts" columns for ea
     first = 1;
 
 for line_nr in sorted(res):
-    print '\t'.join(res[line_nr])
+    print ('\t'.join(res[line_nr]));
