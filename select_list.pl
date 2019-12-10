@@ -1,7 +1,7 @@
 #!/usr/bin/perl
 use strict;
 
-### Select_ests
+### select_list
 # Nicolas Loira
 # github: nloira
 # 07 Apr 2004
