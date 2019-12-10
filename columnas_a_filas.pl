@@ -1,6 +1,7 @@
 #!/usr/bin/perl
 # columnas_a_filas.pl
 # Jonathan Maldonado
+# github: jomaldon
 # ultima version: Junio 2019
 
 # Transforma un archivo que tiene en una fila un ID y muchos GOs en un archivo que tiene un ID y un GO por fila

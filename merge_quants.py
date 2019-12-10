@@ -5,6 +5,7 @@
 # filenames. The files should all have the same number of rows
 
 ## JM
+# github: jomaldon
 #
 # invoke with
 #       merge_quants.py *.sf

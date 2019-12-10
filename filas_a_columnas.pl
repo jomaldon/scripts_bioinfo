@@ -1,6 +1,7 @@
 #!/usr/bin/perl
 # filas_a_columnas.pl
 # Jonathan Maldonado
+# github: jomaldon
 # ultima version: Junio 2019
 
 # Transforma un archivo que tiene en la primera columna un ID y en la segunda columna un GO en un archivo que tiene en la primera columna un ID y todos los GO que le corresponden estarán en las columnas a la derecha (la información de los GO queda condensada en una fila).

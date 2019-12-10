@@ -2,6 +2,7 @@
 
 # linealarga.pl
 # Nicolas Loira
+# github: nloira
 # ultima version: mayo 2005
 # (corregido bug de primera linea)
 # (en caso de no dar archivo de salida, arroja al stdout)

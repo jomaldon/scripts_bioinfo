@@ -1,7 +1,8 @@
 #!/usr/bin/perl
 # lengthFasta.pl
 # Jonathan Maldonado
-# última version: Junio 2019
+# github: jomaldon
+# ultima version: Junio 2019
 
 # Calcula el largo de secuencias en un archivo formato FASTA usando Bioperl
 
