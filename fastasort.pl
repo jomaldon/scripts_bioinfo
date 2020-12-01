@@ -4,7 +4,7 @@ use Bio::Index::Fasta;
 
 sub print_uso{
 print "Uso: 
-        sort.pl archivo_fuente lista_identificadores\n";
+        fastasort.pl archivo_fuente lista_identificadores\n";
 }
 
 # file names
