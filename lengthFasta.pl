@@ -1,4 +1,4 @@
-#!/usr/bin/perl
+#!/usr/bin/env perl
 # lengthFasta.pl
 # Jonathan Maldonado
 # github: jomaldon
