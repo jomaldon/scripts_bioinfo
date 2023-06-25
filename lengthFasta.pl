@@ -3,6 +3,9 @@
 # Jonathan Maldonado
 # github: jomaldon
 # ultima version: Junio 2019
+#
+# Alternativa para no usar Bioperl
+# awk '/^>/{if (l!="") print l; print; l=0; next}{l+=length($0)}END{print l}' entrada.fasta
 
 # Calcula el largo de secuencias en un archivo formato FASTA usando Bioperl
 

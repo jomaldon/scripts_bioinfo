@@ -6,6 +6,7 @@
 # Biopython required:
 # "pip install biopython" or "sudo apt update; sudo apt install biopython" 
 #
+# https://biopython.org/docs/1.75/api/Bio.SeqIO.QualityIO.html
 
 from Bio import SeqIO
 import gzip
